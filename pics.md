@@ -54,7 +54,7 @@
 
 [作品链接](https://en.wikipedia.org/wiki/L%27Origine_du_monde)
 
-![](./images/0669D4B5AD424ACBB98540A23F22B2D3.png)
+![](_./images/0669D4B5AD424ACBB98540A23F22B2D3.png)
 
 
 ## 8. The Absinthe Drinker (Le Buveur d'absinthe) 喝苦艾酒的人 1859 （Édouard Manet, 爱德华·马奈）
@@ -1669,7 +1669,7 @@ States of Mind III: Those Who Stay 心境 3 留下的人 1911 [作品链接](htt
 
 [作品链接](https://www.wikiart.org/en/takashi-murakami/my-lonesome-cowboy-1998)
 
-![](./images/0BD9DE5C983C4B40AD7101450607F97D.png)
+![](_./images/0BD9DE5C983C4B40AD7101450607F97D.png)
 
 
 ## 234. The Nighmare 噩梦 1781 （Henry Fuseli, 亨利·富塞利）
